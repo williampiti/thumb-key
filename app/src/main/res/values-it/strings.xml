@@ -40,7 +40,7 @@
     <string name="theme_color">Colore del tema</string>
     <string name="position">Posizione</string>
     <string name="vibrate_on_tap">Vibra al tocco</string>
-    <string name="vibrate_warning">Richiede l'attivazione del feedback tattile nelle impostazioni di sistema</string>
+    <string name="vibrate_warning">Richiede che il feedback tattile sia abilitato nelle impostazioni di sistema</string>
     <string name="play_sound_on_tap">Riproduci suono al tocco</string>
     <string name="auto_capitalize">Maiuscole automatiche</string>
     <string name="key_size">Dimensione tasto: %1$s</string>
